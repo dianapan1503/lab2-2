@@ -1,0 +1,7 @@
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Навчання\4 семестр\ООП\Л2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
